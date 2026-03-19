@@ -1,6 +1,9 @@
+## Name : Madhesh I
+## Reg No : 212224220055
 ## AIM
 To develop a neural network classification model for the given dataset.
-
+## Problem Statement
+The problem is to develop a neural network classification model that can predict the correct customer segment (A, B, C, or D) for new customers based on given features. The model should learn from existing market data and accurately classify customers to support targeted marketing strategies.
 ## THEORY
 An automobile company has plans to enter new markets with their existing products. After intensive market research, they’ve decided that the behavior of the new market is similar to their existing market.
 
