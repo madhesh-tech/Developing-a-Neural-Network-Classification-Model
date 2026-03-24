@@ -1,5 +1,5 @@
-## Name : Madhesh I
-## Reg No : 212224220055
+# Developing a Neural Network Classification Model
+
 ## AIM
 To develop a neural network classification model for the given dataset.
 ## Problem Statement
